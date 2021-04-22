@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/bin/Debug/netcoreapp3.1/Uso_de_if.deps.json
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/bin/Debug/netcoreapp3.1/Uso_de_if.runtimeconfig.json
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/bin/Debug/netcoreapp3.1/Uso_de_if.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/bin/Debug/netcoreapp3.1/Uso_de_if.dll
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/bin/Debug/netcoreapp3.1/Uso_de_if.pdb
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/obj/Debug/netcoreapp3.1/Uso_de_if.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/obj/Debug/netcoreapp3.1/Uso_de_if.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/obj/Debug/netcoreapp3.1/Uso_de_if.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/obj/Debug/netcoreapp3.1/Uso_de_if.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/obj/Debug/netcoreapp3.1/Uso_de_if.dll
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/obj/Debug/netcoreapp3.1/Uso_de_if.pdb
+/Users/tom/Desktop/C#/Uso_de_if/Uso_de_if/obj/Debug/netcoreapp3.1/Uso_de_if.genruntimeconfig.cache
